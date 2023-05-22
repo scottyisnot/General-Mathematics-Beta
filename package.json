@@ -1,9 +1,10 @@
 {
   "dependencies": {
     "bare-server-node": "github:tomphttp/bare-server-node",
-    "node-static": "^0.7.11"
+    "node-static": "^0.7.11",
+    "ws": "^8.11.0"
   },
-  "name": "generalmathematics",
+  "name": "scootermathematics",
   "version": "1.0.0",
   "description": "A Web Proxy That is Fast and Has Multiple Games. Evade Internet Censorship and Browse the Internet Freely.",
   "main": "index.js",
@@ -13,12 +14,12 @@
   },
   "keywords": [
     "proxy",
-    "tomp", 
-    "GeneralMathematics", 
-    "educational", 
-    "science", 
+    "tomp",
+    "scooterMathematics",
+    "educational",
+    "science",
     "math"
   ],
-  "author": "General Mathematics",
+  "author": "Scooter Mathematics",
   "license": "GPL-3.0-or-later"
 }

@@ -9,8 +9,8 @@
 :root {
     --background: #24223e;
     --sidebarcolor1: #11101d;
-    --sidebarcolor2: #fff;
-    --textcolor: #fff;
+    --sidebarcolor2: #ff6600;
+    --textcolor: #ff6600;
 }
 
 /* Generic CSS */
