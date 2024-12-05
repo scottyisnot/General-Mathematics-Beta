@@ -1,0 +1,3 @@
+tasks:
+  - name: Keep Alive
+    command: while true; do echo "Keeping Gitpod alive..."; sleep 300; done
